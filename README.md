@@ -9,4 +9,6 @@ shesaidthatshecouldhelpme,howmuchthecombocoffecost,easkstogiveherphonenumbertohi
 thishotelhasfortyroo..,thesaharahas1200..,herphonehas...
 7.l2:britain,enjoy,furni,8.30,house,sailing.l3-holiday:cycling,castle,thespring,55,music,bird,8800.r1:theday,explain,weekday,inthepart,asso
 r3:tvpro,when,educati,mixes,famous.r4:fou,only,envi,depe,reco,dama,below,why,soon,availab.w1:thewomanwatnotyoungenoughtorunfast,imnotricktohlep,mygraisnotyoungenog..theseawasnotwarn,sorryimlate...,paulhada..becauseofhisfastdriving,thematchwasponbecauoftherain,itspoorquality.
-6.l2:badweather,hermoth,produced,checkwea,travelabroad,raining.l3:techno,techni,fac,gove,leftsch,5year,edu.r1:cantpark,afterusi,across,itdifficult,makesure.r2:bbabbaabba.r3-winterdri:advise,tolearn,problem,toexplain,icyroad
+6.l2:badweather,hermoth,produced,checkwea,travelabroad,raining.l3:techno,techni,fac,gove,leftsch,5year,edu.r1:cantpark,afterusi,across,itdifficult,makesure.r2:bbabbaabba.r3-winterdri:advise,tolearn,problem,toexplain,icyroad.r4:blame,cause,offer,borrow,habit,defect,lie,althou,
+hooke,find.w1:ittookthreeandahalfhourstoflytomoscow,ittookthemaweektoattendtheworkshopon,
+5.l2:spiderman,freetime,rusian,close,charlie,10.2.l3:march,april,140,520,train,identity,birinfo,friday.r1:alone,cannotbe,dontpay,bookinpost.r3:carees,explain,money,fina,earlystar.r4:make,of,all,end,after,share,every,frighte,mistake,amount,...
